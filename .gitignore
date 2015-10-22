@@ -1,0 +1,6 @@
+*.svn
+.idea
+*.iml
+archive
+dist
+node_modules
